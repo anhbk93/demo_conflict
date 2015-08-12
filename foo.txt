@@ -1,2 +1,2 @@
 the first line of master
-the second line from master
+the second line from lorem
